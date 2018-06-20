@@ -1,0 +1,22 @@
+{
+  "name": "@ahinnovate/gateway",
+  "version": "0.0.1",
+  "description": "saasgateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahinnovate/gateway.git"
+  },
+  "keywords": [
+    "saasgateway"
+  ],
+  "author": "ahonnovate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahinnovate/gateway/issues"
+  },
+  "homepage": "https://github.com/ahinnovate/gateway#readme"
+}
